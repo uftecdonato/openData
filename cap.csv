@@ -19,3 +19,7 @@ ID_Determine;Cap_Numero;Gestione;Anno_Gestione;Importo_Impegnato
 1529;1934/01;Competenza;2022;€ 1.068,72
 ID_Determine;Cap_Numero;Gestione;Anno_Gestione;Importo_Impegnato
 1530;1927/00;Competenza;2022;€ 470,42
+ID_Determine;Cap_Numero;Gestione;Anno_Gestione;Importo_Impegnato;Impegno_N
+1385;1927/00;Competenza;2022;€ 1.176,93;114/2022
+1385;1927/00;Competenza;2022;-149,86;
+Importo impegnato;;;;€ 1.027,07;
